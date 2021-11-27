@@ -1,0 +1,10 @@
+*{
+    background-color: lightgrey;
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 200px;
+    text-align: center;
+    font-size: xx-large;
+color: var(--clr-grey-1);
+}
