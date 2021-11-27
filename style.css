@@ -13,3 +13,11 @@ color: var(--clr-grey-1);
     font-weight: bold;
     display: grid;
 }
+.btn{
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+   font-size: medium;
+}
