@@ -8,3 +8,8 @@
     font-size: xx-large;
 color: var(--clr-grey-1);
 }
+#value{
+    font-size: 5rem;
+    font-weight: bold;
+    display: grid;
+}
